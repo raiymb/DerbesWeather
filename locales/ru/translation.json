@@ -1,0 +1,35 @@
+
+{
+    "navigation": {
+    "home": "Главная",
+    "login": "Вход",
+    "dashboard": "Панель управления",
+    "logout": "Выйти"
+    },
+    "loginPage": {
+    "welcomeMessage": "С возвращением!",
+    "username": "Имя пользователя",
+    "password": "Пароль",
+    "loginButton": "Войти",
+    "errors": {
+    "invalidCredentials": "Неверное имя пользователя или пароль",
+    "missingFields": "Пожалуйста, заполните все поля"
+    }
+    },
+    "dashboardPage": {
+    "welcome": "Добро пожаловать, {{username}}!",
+    "apiSectionTitle": "Ваши API",
+    "newsApi": "Последние новости",
+    "weatherApi": "Прогноз погоды",
+    "cryptoApi": "Курсы криптовалют",
+    "wikipediaApi": "Краткое описание из Википедии",
+    "weatherbitApi": "Прогноз от Weatherbit",
+    "nasaApi": "Изображение дня от NASA",
+    "downloadData": "Скачать данные"
+    },
+    "errors": {
+    "pageNotFound": "Страница не найдена",
+    "unexpectedError": "Произошла неожиданная ошибка"
+    },
+    "footerText": "© 2024 Derbes. Все права защищены."
+    }

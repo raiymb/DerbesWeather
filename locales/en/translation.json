@@ -1,0 +1,35 @@
+{
+    "navigation": {
+      "home": "Home",
+      "login": "Login",
+      "dashboard": "Dashboard",
+      "logout": "Logout"
+    },
+    "loginPage": {
+      "welcomeMessage": "Welcome Back!",
+      "username": "Username",
+      "password": "Password",
+      "loginButton": "Log In",
+      "errors": {
+        "invalidCredentials": "Invalid username or password",
+        "missingFields": "Please fill in all fields"
+      }
+    },
+    "dashboardPage": {
+      "welcome": "Welcome, {{username}}!",
+      "apiSectionTitle": "Your APIs",
+      "newsApi": "Latest News",
+      "weatherApi": "Weather Forecast",
+      "cryptoApi": "Cryptocurrency Rates",
+      "wikipediaApi": "Wikipedia Summary",
+      "weatherbitApi": "Weatherbit Forecast",
+      "nasaApi": "NASA's Picture of the Day",
+      "downloadData": "Download Data"
+    },
+    "errors": {
+      "pageNotFound": "Page Not Found",
+      "unexpectedError": "An unexpected error occurred"
+    },
+    "footerText": "© 2024 Derbes. All rights reserved."
+  }
+  

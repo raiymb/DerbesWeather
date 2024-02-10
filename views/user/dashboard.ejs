@@ -1,0 +1,14 @@
+<% layout('layout', {title: 'Dashboard'}) -%>
+
+<h1 class="mb-4"><%= t("dashboardPage.welcome", {username: user.username}) %></h1>
+<div class="row">
+    <div class="col-md-4 mb-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title"><%= t("dashboardPage.weatherApi") %></h5>
+                <div id="weatherData"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/js/dashboard.js"></script>
